@@ -3,11 +3,9 @@
   width: 100%;
 }
 
-#text{
-  color: aliceblue;
-  text-align: center;
+.spacer {
+  flex: 1;
 }
-
 
 #card1{
   float: left;
