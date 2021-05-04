@@ -1,0 +1,18 @@
+#fondo{
+  background: rgb(0, 132, 255);
+  width: 100%;
+}
+
+#text{
+  color: aliceblue;
+  text-align: center;
+}
+
+
+#card1{
+  float: left;
+}
+
+#card2{
+  float: right;
+}
